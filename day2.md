@@ -4,3 +4,7 @@
 - DSA
 - Web DEV
 - AWS
+
+- [ ] GYM
+- [x] Valorant
+- [x] PS4
