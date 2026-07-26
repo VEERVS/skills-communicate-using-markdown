@@ -1,1 +1,2 @@
-**This is BOLD Text**
+**This is BOLD Text**<br>
+*This is Italic Text*
