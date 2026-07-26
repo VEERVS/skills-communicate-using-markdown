@@ -1,2 +1,5 @@
-**This is BOLD Text**<br>
+**This is BOLD Text**
+
 *This is Italic Text*
+
+~~This is Strikethrough Text~~
