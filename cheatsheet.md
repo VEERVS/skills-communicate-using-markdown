@@ -9,3 +9,18 @@
 *Italic*
 
 ~~Strikethrough~~
+
+> Blockquote
+
+- Item 1
+- Item 2
+  - Nested Item
+
+1. First
+2. Second
+
+`Inline Code`
+
+```C
+printf("Hello, Markdown!");
+```
