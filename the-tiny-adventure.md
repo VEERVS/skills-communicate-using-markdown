@@ -14,3 +14,11 @@
 1. Find the cave.
 2. Open the chest.
 3. Don't wake the dragon.
+
+### Progress
+- [x] Leave home
+- [x] Reach the forest
+- [ ] Defeat the dragon
+- [ ] Claim the treasure
+
+---
