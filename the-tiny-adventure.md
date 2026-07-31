@@ -9,3 +9,8 @@
 - Flashlight
 - Apple
 - Mysterious Key
+
+### Mission
+1. Find the cave.
+2. Open the chest.
+3. Don't wake the dragon.
