@@ -24,3 +24,13 @@
 ```C
 printf("Hello, Markdown!");
 ```
+| Name | Value |
+|------|------:|
+| Speed | ⚡ |
+| Style | 🎨 |
+| Cool | 😎 |
+
+---
+
+- [x] Finished
+- [ ] In Progress
