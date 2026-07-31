@@ -24,6 +24,8 @@
 ```C
 printf("Hello, Markdown!");
 ```
+---
+
 | Name | Value |
 |------|------:|
 | Speed | ⚡ |
