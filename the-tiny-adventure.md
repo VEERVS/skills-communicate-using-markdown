@@ -28,4 +28,20 @@
 | Level | 3 |
 | Defense | 12 |
 | Attack | 18 |
+
+## Map
+
+```text
+Village
+   │
+Forest ── River
+   │
+Old Bridge
+   │
+Hidden Cave
+   │
+Dragon's Lair
+   │
+Treasure Room
+```
 ---
