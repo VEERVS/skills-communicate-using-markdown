@@ -46,9 +46,19 @@ Treasure Room
 ```
 ## Rewards
 
-- 🏆 Dragon Slayer Badge
-- 💎 Legendary Gem
-- 👑 Golden Crown
-- 🪙 500 Gold Coins
+- Dragon Slayer Badge
+- Legendary Gem
+- Golden Crown
+- 500 Gold Coins
 
+## Journal
+
+### Day 1
+Left the village with only a map and a flashlight.
+
+### Day 2
+Reached the forest and discovered strange footprints leading north.
+
+### Day 3
+Found the entrance to a mysterious cave. A low growl echoed from within...
 ---
