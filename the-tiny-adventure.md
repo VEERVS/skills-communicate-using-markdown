@@ -21,4 +21,11 @@
 - [ ] Defeat the dragon
 - [ ] Claim the treasure
 
+| Attribute | Value |
+|-----------|------:|
+| Health | 100 |
+| Energy | 80 |
+| Level | 3 |
+| Defense | 12 |
+| Attack | 18 |
 ---
