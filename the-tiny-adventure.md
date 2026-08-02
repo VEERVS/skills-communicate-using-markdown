@@ -44,4 +44,11 @@ Dragon's Lair
    │
 Treasure Room
 ```
+## Rewards
+
+- 🏆 Dragon Slayer Badge
+- 💎 Legendary Gem
+- 👑 Golden Crown
+- 🪙 500 Gold Coins
+
 ---
