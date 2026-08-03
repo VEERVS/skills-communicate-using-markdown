@@ -89,4 +89,12 @@ Found the entrance to a mysterious cave. A low growl echoed from within...
 - River
 - Old Bridge
 - Hidden Cave Entrance
+
+### Locked Locations
+
+- Crystal Cavern
+- Dragon's Lair
+- Treasure Room
+- Secret Exit
+
 ---
