@@ -71,4 +71,15 @@ Found the entrance to a mysterious cave. A low growl echoed from within...
 | Leather Armor | Good |
 | Flashlight | Fully Charged |
 | Rope | New |
+
+## Skills
+
+| Skill | Level |
+|-------|------:|
+| Swordsmanship | 3 |
+| Exploration | 4 |
+| Survival | 4 |
+| Stealth | 2 |
+| Puzzle Solving | 3 |
+
 ---
