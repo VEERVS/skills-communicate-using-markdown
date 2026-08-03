@@ -82,4 +82,11 @@ Found the entrance to a mysterious cave. A low growl echoed from within...
 | Stealth | 2 |
 | Puzzle Solving | 3 |
 
+## Locations Discovered
+
+- Village
+- Forest
+- River
+- Old Bridge
+- Hidden Cave Entrance
 ---
