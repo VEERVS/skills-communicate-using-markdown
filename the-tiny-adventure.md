@@ -61,4 +61,14 @@ Reached the forest and discovered strange footprints leading north.
 
 ### Day 3
 Found the entrance to a mysterious cave. A low growl echoed from within...
+
+## Equipment
+
+| Equipment | Condition |
+|-----------|-----------|
+| Iron Sword | Excellent |
+| Wooden Shield | Good |
+| Leather Armor | Good |
+| Flashlight | Fully Charged |
+| Rope | New |
 ---
