@@ -18,7 +18,7 @@
 ### Progress
 - [x] Leave home
 - [x] Reach the forest
-- [ ] Defeat the dragon
+- [x] Defeat the dragon
 - [ ] Claim the treasure
 
 | Attribute | Value |
