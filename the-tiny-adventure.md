@@ -91,10 +91,10 @@ Found the entrance to a mysterious cave. A low growl echoed from within...
 - Hidden Cave Entrance
 - Crystal Cavern
 - Dragon's Lair
+- Treasure Room
 
 ### Locked Locations
 
-- Treasure Room
 - Secret Exit
 
 ---
