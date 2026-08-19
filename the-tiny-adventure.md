@@ -94,7 +94,4 @@ Found the entrance to a mysterious cave. A low growl echoed from within...
 - Treasure Room
 - Secret Exit
 
-### Locked Locations
-
-
 ---
