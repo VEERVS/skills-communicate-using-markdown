@@ -19,7 +19,7 @@
 - [x] Leave home
 - [x] Reach the forest
 - [x] Defeat the dragon
-- [ ] Claim the treasure
+- [x] Claim the treasure
 
 | Attribute | Value |
 |-----------|------:|
